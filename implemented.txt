@@ -1,0 +1,12 @@
+# Implemented Features
+
+This project implements various image processing techniques for Kidney Stone Detection:
+
+1. **Gabor Filter**: Used for texture analysis and edge detection.
+2. **Histogram Equalization**: Enhances the contrast of images to make features more visible.
+3. **Laplacian Edge Detection / Sharpening**: Used to highlight boundaries and sharp transitions.
+4. **Watershed Segmentation**: Used for segmenting the kidney stones from the rest of the image.
+5. **Gaussian Blur & Median Blur**: Used for noise reduction before processing.
+6. **Sobel Filter**: Used for detecting vertical or horizontal edges (specifically Y direction in `read_write.py`).
+7. **Image Normalization**: Scales pixel values to a standard range (0-255).
+8. **Visualization**: Uses Matplotlib to display original and processed images side-by-side.
