@@ -28,3 +28,7 @@ Main dependencies:
 
 1. Ensure you have the images in the `Images Used/` directory.
 2. Run any of the feature scripts (e.g., `python Finalcode.py`).
+
+## Author
+
+- **GitHub**: [sachinLabs14](https://github.com/sachinLabs14)
